@@ -1,0 +1,137 @@
+2025-12-31 10:32:32,874 : ----- Naukri Bulk Apply Script -----
+2025-12-31 10:32:37,776 : Attempting Login...
+2025-12-31 10:32:50,063 : Login Successful.
+2025-12-31 10:32:56,714 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:33:06,617 : Selected 5 jobs.
+2025-12-31 10:33:11,863 : Apply button did not appear. Refreshing...
+2025-12-31 10:33:12,502 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:33:23,019 : Selected 5 jobs.
+2025-12-31 10:33:28,342 : Apply button did not appear. Refreshing...
+2025-12-31 10:33:28,942 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:33:38,710 : Selected 5 jobs.
+2025-12-31 10:33:43,952 : Apply button did not appear. Refreshing...
+2025-12-31 10:33:44,520 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:33:54,806 : Selected 5 jobs.
+2025-12-31 10:34:00,032 : Apply button did not appear. Refreshing...
+2025-12-31 10:34:00,635 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:34:10,717 : Selected 5 jobs.
+2025-12-31 10:34:15,955 : Apply button did not appear. Refreshing...
+2025-12-31 10:34:16,539 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:34:26,265 : Selected 5 jobs.
+2025-12-31 10:34:31,516 : Apply button did not appear. Refreshing...
+2025-12-31 10:34:32,541 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:34:42,273 : Selected 5 jobs.
+2025-12-31 10:34:47,576 : Apply button did not appear. Refreshing...
+2025-12-31 10:34:48,144 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:34:58,547 : Selected 5 jobs.
+2025-12-31 10:35:03,882 : Apply button did not appear. Refreshing...
+2025-12-31 10:35:04,456 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:35:14,813 : Selected 5 jobs.
+2025-12-31 10:35:20,087 : Apply button did not appear. Refreshing...
+2025-12-31 10:35:20,671 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:35:31,343 : Selected 5 jobs.
+2025-12-31 10:35:36,539 : Apply button did not appear. Refreshing...
+2025-12-31 10:35:37,098 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:35:47,846 : Selected 5 jobs.
+2025-12-31 10:35:53,122 : Apply button did not appear. Refreshing...
+2025-12-31 10:35:53,856 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:36:04,384 : Selected 5 jobs.
+2025-12-31 10:36:09,622 : Apply button did not appear. Refreshing...
+2025-12-31 10:36:10,156 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:36:20,277 : Selected 5 jobs.
+2025-12-31 10:36:25,482 : Apply button did not appear. Refreshing...
+2025-12-31 10:36:26,054 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:36:37,414 : Selected 5 jobs.
+2025-12-31 10:36:42,624 : Apply button did not appear. Refreshing...
+2025-12-31 10:36:43,138 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:36:53,415 : Selected 5 jobs.
+2025-12-31 10:36:58,641 : Apply button did not appear. Refreshing...
+2025-12-31 10:36:59,290 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:37:08,704 : Selected 5 jobs.
+2025-12-31 10:37:13,953 : Apply button did not appear. Refreshing...
+2025-12-31 10:37:14,519 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:37:24,191 : Selected 5 jobs.
+2025-12-31 10:37:29,409 : Apply button did not appear. Refreshing...
+2025-12-31 10:37:30,131 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:37:40,425 : Selected 5 jobs.
+2025-12-31 10:37:45,731 : Apply button did not appear. Refreshing...
+2025-12-31 10:37:46,875 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:37:54,004 : Stopped by User.
+2025-12-31 10:37:54,036 : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/c88fdaa3d9db1c679406568ef3420907
+2025-12-31 10:37:58,133 : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64331): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c88fdaa3d9db1c679406568ef3420907
+2025-12-31 10:38:02,210 : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64331): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c88fdaa3d9db1c679406568ef3420907
+2025-12-31 10:38:06,305 : ----- Script Ended -----
+2025-12-31 10:43:10,933 : ----- Naukri Bulk Apply Script -----
+2025-12-31 10:43:16,417 : Attempting Login...
+2025-12-31 10:43:24,877 : Stopped by User.
+2025-12-31 10:43:24,881 : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/89473385ba1dfc12d7c657698130d829
+2025-12-31 10:43:28,956 : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61123): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/89473385ba1dfc12d7c657698130d829
+2025-12-31 10:43:33,028 : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61123): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/89473385ba1dfc12d7c657698130d829
+2025-12-31 10:43:37,085 : ----- Script Ended -----
+2025-12-31 10:48:50,342 : ----- Naukri Bulk Apply Script -----
+2025-12-31 10:48:55,397 : Attempting Login...
+2025-12-31 10:49:07,385 : Login Successful.
+2025-12-31 10:49:15,478 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:49:25,292 : Selected 5 jobs.
+2025-12-31 10:49:30,553 : Apply button did not appear. Refreshing...
+2025-12-31 10:49:31,216 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:49:41,030 : Selected 5 jobs.
+2025-12-31 10:49:46,226 : Apply button did not appear. Refreshing...
+2025-12-31 10:49:46,853 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:49:57,569 : Selected 5 jobs.
+2025-12-31 10:50:02,949 : Apply button did not appear. Refreshing...
+2025-12-31 10:50:03,714 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:50:14,491 : Selected 5 jobs.
+2025-12-31 10:50:19,776 : Apply button did not appear. Refreshing...
+2025-12-31 10:50:20,306 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:50:30,309 : Selected 5 jobs.
+2025-12-31 10:50:35,517 : Apply button did not appear. Refreshing...
+2025-12-31 10:50:36,206 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:50:46,112 : Selected 5 jobs.
+2025-12-31 10:50:51,340 : Apply button did not appear. Refreshing...
+2025-12-31 10:50:51,923 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:50:58,395 : Stopped by User.
+2025-12-31 10:50:58,425 : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/e20854ce1a976899ac0470451c7486a4
+2025-12-31 10:51:02,532 : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51286): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e20854ce1a976899ac0470451c7486a4
+2025-12-31 10:51:06,630 : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51286): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e20854ce1a976899ac0470451c7486a4
+2025-12-31 10:51:10,736 : ----- Script Ended -----
+2025-12-31 10:52:12,985 : ----- Naukri Bulk Apply Script -----
+2025-12-31 10:52:17,601 : Attempting Login...
+2025-12-31 10:52:30,700 : Login Successful.
+2025-12-31 10:52:38,100 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:52:48,042 : Selected 5 jobs.
+2025-12-31 10:52:53,052 : Apply button did not appear. Refreshing...
+2025-12-31 10:52:56,860 : 
+--- Starting Batch Selection (Processed so far: 0) ---
+2025-12-31 10:53:04,165 : Stopped by User.
+2025-12-31 10:53:08,285 : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54875): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/b03b8d6516ead2d40ab2c8050b3c78a0
+2025-12-31 10:53:12,387 : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54875): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/b03b8d6516ead2d40ab2c8050b3c78a0
+2025-12-31 10:53:16,469 : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54875): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/b03b8d6516ead2d40ab2c8050b3c78a0
+2025-12-31 10:53:20,586 : ----- Script Ended -----
